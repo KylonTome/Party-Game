@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 320f19f2df727394898700c9167a54d4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - birdNoise: {fileID: 8300000, guid: 7811fdcffe7cea740b273df91875f521, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
